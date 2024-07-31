@@ -65,7 +65,7 @@
 ---
 
 ## Repository Structure
-
+```
 data-analysis-visualization-2/
 ├── .gitignore
 ├── README.md
@@ -75,8 +75,9 @@ data-analysis-visualization-2/
 │   └── Graded Assessment 2.pdf
 └── notebooks/
     └── Week3_Graded_Assessment2.ipynb
-
+```
 ---
+
 
 ---
 
