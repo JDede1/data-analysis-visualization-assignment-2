@@ -1,0 +1,30 @@
+# OS system files
+.DS_Store
+Thumbs.db
+desktop.ini
+Icon?
+
+# Python cache & Jupyter
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+*.pyo
+
+# Office temporary/lock files
+~$*.docx
+~$*.xlsx
+~$*.pptx
+~$*.pdf
+
+# Logs & temp files
+*.log
+*.tmp
+*.temp
+*.bak
+*.old
+~*
+
+# Editor/project settings
+.vscode/
+.idea/
+*.code-workspace
